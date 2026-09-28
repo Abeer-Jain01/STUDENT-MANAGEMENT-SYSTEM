@@ -1,0 +1,82 @@
+{
+    "95986": {
+        "name": "abeer jain",
+        "dob": "12/03/2008",
+        "gender": "male",
+        "course": "B.Tech ECE",
+        "semester": "1",
+        "address": "Sagar M.P.",
+        "phone": " ",
+        "email": " ",
+        "parent_name": " ",
+        "parent_phone": " ",
+        "blood_group": "b+",
+        "admission_year": "2026",
+        "attendance": "100",
+        "fees": {
+            "total": 200000,
+            "paid": 200000.0,
+            "remaining": 0.0
+        },
+        "payment_history": [
+            {
+                "amount": 158260.0,
+                "date": "25/09/2026 13:34:08",
+                "remaining_after_payment": 41740.0
+            },
+            {
+                "amount": 41740.0,
+                "date": "25/09/2026 13:34:47",
+                "remaining_after_payment": 0.0
+            }
+        ],
+        "status": "Active",
+        "created_at": "25/09/2026 13:33:08"
+    },
+    "97638": {
+        "name": "example",
+        "dob": "06/09/2008",
+        "gender": "male",
+        "course": "B.Tech CSE",
+        "semester": "1",
+        "address": "Delhi",
+        "phone": ".",
+        "email": ".",
+        "parent_name": ".",
+        "parent_phone": ".",
+        "blood_group": "ab+",
+        "admission_year": "2026",
+        "attendance": "87",
+        "fees": {
+            "total": 200000,
+            "paid": 0,
+            "remaining": 200000
+        },
+        "payment_history": [],
+        "status": "Active",
+        "created_at": "26/09/2026 17:28:27"
+    },
+    "81217": {
+        "name": "ASDF",
+        "dob": "14/04/2005",
+        "gender": "FEMALE",
+        "course": "B.ARCH'",
+        "semester": "3",
+        "address": "..",
+        "phone": "..",
+        "email": "..",
+        "parent_name": "..",
+        "parent_phone": "..",
+        "blood_group": "O-",
+        "admission_year": "2025",
+        "attendance": "85",
+        "fees": {
+            "total": 200000,
+            "paid": 0,
+            "remaining": 200000
+        },
+        "payment_history": [],
+        "status": "Active",
+        "created_at": "28/09/2026 17:11:44"
+    }
+}
